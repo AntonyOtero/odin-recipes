@@ -1,0 +1,38 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.recipe-cover {
+    width: 750px;
+    height: auto;
+}
+
+.recipe-description {
+    font-style: italic;
+}
+
+.ingredient {
+    padding: 5px;
+}
+
+.step {
+    margin-bottom: 50px;
+}
+
+.step-title {
+    margin-bottom: 0;
+    text-decoration: underline;
+}
+
+.step-description {
+    margin-top: 8px;
+}
+
+.step img {
+    width: 375px;
+    height: auto;
+}
