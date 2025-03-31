@@ -1,9 +1,31 @@
 body {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-li {
-    margin-bottom: 5px;
+h1 {
+    margin: 0;
+    color: #1e2939;
+}
+
+p {
+    color: #364153;
+}
+
+#table-of-contents {
+    margin: 0 auto;
+    padding: 20px;
+    width: 50vw;
+    text-align: center;
+    background-color: rgb(243,244,246);
+}
+
+#table-of-contents ul {
+    padding: 0;
+    list-style: none;
+}
+
+.recipe {
+    margin-bottom: 10px;
 }
 
 .recipe-cover {
